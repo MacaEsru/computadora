@@ -26,3 +26,4 @@ class Alumno(models.Model):
     
     class Meta:
         db_table = 'Alumno'
+ //modificando archivo xd
